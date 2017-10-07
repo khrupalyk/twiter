@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="twiter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="twiter.war">
+      <element id="artifact" artifact-name="twiter:war exploded" />
+    </root>
+  </artifact>
+</component>
